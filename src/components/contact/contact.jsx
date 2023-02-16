@@ -21,7 +21,7 @@ const Contact=()=>{
             <h4>Whatsapp
             </h4>
           
-            <a href="httpwasapapi "> Send a messege</a>
+            <a href="https://wa.me/5493512130222 "> Send a messege</a>
         </article>
 
 

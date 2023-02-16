@@ -1,0 +1,35 @@
+.about{ display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap:1rem;
+    
+    justify-content: center;
+    padding: 2rem;
+}
+.about h2{
+    padding-bottom: 1rem;
+    padding-top: 0rem;
+}
+.text1{
+    font-size:small;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:bold;
+}
+text{
+    color:gray;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.aboutme{
+    background: transparent;
+    padding: 1.2rem;
+    border-radius: 1rem;
+    text-align: center;
+    border: 1px solid transparent;
+    transition: var(--color-primary);
+    box-shadow: rgba(12, 30, 55, 0.944) 0px 4px 16px, rgba(8, 28, 102, 0.631) 0px 8px 24px, rgba(254, 205, 211, 0.696) 0px 16px 56px;
+font-size: small;
+font-weight: lighter;
+
+  
+}
+
+

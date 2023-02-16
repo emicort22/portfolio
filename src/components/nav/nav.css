@@ -1,9 +1,10 @@
 .nav{
     background: rgba(0, 0, 0, 0.274);
     width: max-content;
-    display: block;
-    padding:0.7 rem 1.7rem;
-    z-index:2 ;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding:0.3 rem 1.7rem;
+ 
     position: fixed;
     left: 50%;
     transform: translate(-50%);
@@ -30,3 +31,4 @@ nav a.active{
     background: var(--color-bg);
     color:var(--color-white);
 }
+/* media queries medium devices*/

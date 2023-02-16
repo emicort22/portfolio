@@ -1,6 +1,7 @@
 .projects_container{
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    gap:1rem;
+    grid-template-columns: repeat(auto-fill, minmax(15rem,1fr));
     gap: 1rem;
   
   
@@ -11,7 +12,7 @@
     border-radius: 1rem;
     border: 1px solid transparent;
     transition: var(--transition);
-    gap: 20px;
+   
 }
 .portfolio_item:hover{
     border-color: var(--color-primary-variant);
@@ -24,6 +25,8 @@
     height: 15rem;
     border-radius: 1rem;
     overflow: hidden;
+    max-width: 1720px;
+    margin: 0 auto;
  
 }
 .portfolio_item h3{
@@ -34,17 +37,4 @@
     gap: 0.5rem;
     margin-bottom: 1rem;
     font-weight:lighter;
-}
-@media screen and (max-width: 1024px) {
-    .projects_container{
-        grid-template-columns: 1fr 1fr;
-        gap:1.2rem;
-    }
-    
-}
-@media screen and(max-width:600px){
-    .projects_container{
-        grid-template-columns: 1fr;
-        gap:1rem;
-    }
 }

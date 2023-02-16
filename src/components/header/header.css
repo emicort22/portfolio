@@ -46,8 +46,8 @@ padding: 2rem 1rem 1rem 2rem;
   }
   .scroll_down{
     position: absolute;
-    right:-2.3rem ;
-    bottom: 24rem;
+    right:-4.3rem ;
+    bottom: 19%;
     transform: rotate(90deg);
     font-weight: 300;
     font-size: 0.9rem;
@@ -62,7 +62,10 @@ padding: 2rem 1rem 1rem 2rem;
     
   }
   @media screen and (max-width:600px){
+ .scroll_down{ margin-right: 0rem;
  
+
+ }
     .header_socials{
     
       display: grid;

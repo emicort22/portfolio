@@ -20,8 +20,8 @@
 
 }
 .portfolio_item-image img{
-    width: 18rem;
-    height: 15rem;
+    width: 90%;
+    height: 20rem;
     border-radius: 1rem;
     overflow: hidden;
     max-width: 1720px;

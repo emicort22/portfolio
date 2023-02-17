@@ -6,7 +6,7 @@ export const About = () => {
         <h2>About me</h2>
         <div className='about'>
     <div className='aboutme'> 
-    <text className='text1' > Hi! I'm Emilia, a web development enthusiast 💻 from Cordoba, Argentina. 
+    <text className='text' > Hi! I'm Emilia, a web development enthusiast 💻 from Cordoba, Argentina. 
     I'm also a graduate in psychology 🧠 This gave me knowledge and experience thanks to which I enjoy working in groups and with groups, that's why I like to think that I have very good communication skills which I consider key to solve problems, and or find other ways. I was recently selected for the "Grow with Google for Women in STEM" Program (Science, Technology, Engineering and Mathematics) to continue my professional preparation.
     </text>
    

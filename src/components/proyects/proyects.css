@@ -1,9 +1,8 @@
 .projects_container{
     display: grid;
     gap:1rem;
-    grid-template-columns: repeat(auto-fill, minmax(15rem,1fr));
-    gap: 1rem;
-  
+
+    grid-template-columns: repeat(auto-fit, minmax(20rem,2fr));
   
 }
 .portfolio_item{    box-shadow: rgba(17, 31, 50, 0.405) 0px 4px 16px, rgba(29, 41, 85, 0.631) 0px 8px 24px, rgba(254, 205, 211, 0.696) 0px 16px 56px;
@@ -27,6 +26,7 @@
     overflow: hidden;
     max-width: 1720px;
     margin: 0 auto;
+    grid-template-columns: repeat(auto-fill, minmax(15rem,1fr));
  
 }
 .portfolio_item h3{

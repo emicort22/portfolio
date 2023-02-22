@@ -25,7 +25,7 @@ demo: "",},
   id:"4",
   title:" Apartments for rent site",
 img:" ",
-code:"https://github.com/Emiliacortegozo/buhocarlospaz",
+code:"https://github.com/Emiliacortegozo/alquilerbuho",
 demo:" ",
 
 },]

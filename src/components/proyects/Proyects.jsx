@@ -11,22 +11,24 @@ const Proyects = () => {
   code:"https://github.com/Emiliacortegozo/React-ShoppingCart-TSX",
   demo:" https://emishoping.rj.r.appspot.com/",
   
-  },{  id:"2",
-  title:" videogames",
-img:"https://user-images.githubusercontent.com/96702771/180893781-b26e1b3d-b9e9-427b-acdd-7de9935c9b22.png",
-code:"https://github.com/Emiliacortegozo/videogames ",
-demo:"https://20221215t145343-dot-sunlit-inquiry-365401.rj.r.appspot.com/ "},
+  },{ 
+    
+    id:"4",
+    title:" Movile App for a local business",
+  img:"https://user-images.githubusercontent.com/96702771/221989204-6c4e621b-eecc-439e-9821-55be7e909788.png",
+  code:"https://github.com/Emiliacortegozo/alquilerbuho",
+  demo:"https://alquilerbuho.vercel.app/ ",},
 {  id:"3",
   title:" Weather App",
 img:"https://user-images.githubusercontent.com/96702771/180892911-7376c475-174c-4d6f-9ed3-25c85aeb2042.png ",
 code:"https://github.com/Emiliacortegozo/React-weather",
 demo: "",},
 {
-  id:"4",
-  title:" Apartments for rent site",
-img:" ",
-code:"https://github.com/Emiliacortegozo/alquilerbuho",
-demo:" ",
+ id:"2",
+title:" Videogames",
+img:"https://user-images.githubusercontent.com/96702771/180893781-b26e1b3d-b9e9-427b-acdd-7de9935c9b22.png",
+code:"https://github.com/Emiliacortegozo/videogames ",
+demo:"https://20221215t145343-dot-sunlit-inquiry-365401.rj.r.appspot.com/ "
 
 },]
 

@@ -60,21 +60,20 @@ padding: 2rem 1rem 1rem 2rem;
       height:68vh;
     }
     
-    
   }
   @media screen and (max-width:600px){
  .scroll_down{ margin-right: 0rem;
  
 
  }
- img{
-  height: 50%;
-  width: 50%;
- margin-left: 5rem;
- margin-top: 3rem;
-  
+ header{
+  height:68vh;
+}
+.me{
+  position: absolute;
+    width: 20rem;
+    height: 20rem;}
 
- }
     .header_socials{
     
       display: grid;

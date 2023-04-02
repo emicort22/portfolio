@@ -1,5 +1,5 @@
 import React from 'react'
-import me from "../../assets/me.jpg"
+import mee from "../../assets/mee.jpg"
 import HeaderSocials from './HeaderSocials'
 import Resume from './resume'
 import {BsFillArrowRightCircleFill} from 'react-icons/bs'
@@ -14,7 +14,7 @@ const  Header = () => {
        <h5 className='text-light'> Fullstack Developer</h5>
           <Resume />
             <div className="me">
-              <img src={me} alt='profile picture'/>
+              <img src={mee} alt='profile picture'/>
               </div>
           <div className='scroll_down'>
             <a href='#contact' > Scroll Down <BsFillArrowRightCircleFill/></a>

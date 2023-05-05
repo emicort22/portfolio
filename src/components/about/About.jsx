@@ -15,11 +15,13 @@ export const About = () => {
 
    <h2>CERTIFICATES</h2> 
 
- <text > <li> - Google Cloud Architecting with Google Compute Engine specialization.</li>
- <li>- Elastic Google Cloud Infrastructure: Scaling and Automation</li>
- <li> - Essential Cloud Infrastructure: Core Services</li>
- <li>- Google Cloud Essential Cloud Infrastructure: Foundation</li> 
- <li>- Google Cloud Fundamentals: Core Infrastructure - Google Cloud Training</li>
+ <text > <li> -Metodologias agiles y desarrollo full stack - AYIGROUP Bootcamp  </li>
+  <li>- Google Cloud Architecting with Google Compute Engine specialization.</li>
+ <li>- Google skill badge: Create and Manage Cloud Resource</li>
+ <li> Elastic Google Cloud Infrastructure: Scaling and Automation</li>
+ <li>  Essential Cloud Infrastructure: Core Services</li>
+ <li>Google Cloud Essential Cloud Infrastructure: Foundation</li> 
+ <li> Google Cloud Fundamentals: Core Infrastructure - Google Cloud Training</li>
 
  <li>- English Certificate C2 Advanced- EF Standard English Test (EF SET)</li>
  <li>- Desarollo de Apps moviles - Google Activate</li>
@@ -29,13 +31,15 @@ export const About = () => {
 <h2>SKILLS</h2>
 <text>
 <li>- Javascript</li>
-<li>- React</li>
-<li>- GCP</li>
-<li>- Redux</li>
-<li>- Node</li>
 <li>- HTML</li>
+<li>- React</li>
+<li>- Node</li>
 <li>- CSS</li>
+<li>- GCP</li>
+<li>- Wordpress</li>
+<li>- Redux</li>
 <li>- SQL</li>
+<li>- Git</li>
 <li>- Postgresql</li>
 <li>- Linux</li>
 <li>- English advanced C2</li></text>
@@ -44,6 +48,7 @@ export const About = () => {
 <h2>
 Education history</h2>
 <text>
+<li> -Metodologias agiles y desarrollo full stack - AYIGROUP Bootcamp 2023 </li>
 <li>- Google Cloud Learning Workshop LATAM with Women in STEM Fall 2022</li>
 <li>-"Soy Henry" Coding bootcamp - Full Stack Web Development</li>
 <li>-Pyschology Degree from National University of Cordoba, Argentina (2018)</li>
